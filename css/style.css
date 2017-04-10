@@ -1,0 +1,32 @@
+/* Empty. Add your own CSS if you like */
+
+
+
+body {
+  cursor: url('http://ionicframework.com/img/finger.png');
+}
+
+.star>.item-content {
+  background-color: #EEE8D6 !important;
+}
+.splash{
+	
+	background: url(../img/skyline.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	
+	
+}
+.branding{
+	
+	width: 50%;
+	max-width: 300px;
+	margin: 0 auto;
+	margin-top: 20px;
+	text-align: center;
+	
+	
+}
+
